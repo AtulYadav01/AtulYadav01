@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning Kotlin.
 - 🤔 I’m looking for help with Android Developement.
 - 💬 Ask me about Python or any tech related stuff.
-- 📫 How to reach me: [Insatgram - the.atulyadav](https://instagram.com/the.atulyadav/) , [Linkedin - atul-yadav01](https://linkedin.com/in/atul-yadav01/)
+- 📫 How to reach me: [Instagram - the.atulyadav](https://instagram.com/the.atulyadav/) , [Linkedin - atul-yadav01](https://linkedin.com/in/atul-yadav01/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
