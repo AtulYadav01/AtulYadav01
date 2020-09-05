@@ -30,8 +30,8 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
-[![Linkedin: atul-yadav01](https://img.shields.io/badge/-atulyadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/atul-yadav01/)](https://linkedin.com/in/atul-yadav01/)
-[![GitHub AtulYadav01](https://img.shields.io/github/followers/AtulYadav01?label=follow&style=social)](https://github.com/AtulYadav01)
+[![Linkedin:](https://img.shields.io/badge/-atulyadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/atul-yadav01/)](https://linkedin.com/in/atul-yadav01/)
+[![GitHub:](https://img.shields.io/github/followers/AtulYadav01?label=follow&style=social)](https://github.com/AtulYadav01)
 
 
 
