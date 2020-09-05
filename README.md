@@ -3,16 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtulYadav01&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 
-<a href="https://linkedin.com/in/atul-yadav01">
-  <img align="left" alt="Atul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="atulyadav01@hotmail.com">
-  <img align="left" alt="Atul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+[<img align="left" alt="https://atulyadav01.github.io/atul-yadav-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="the_atulyadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="atul-yadav01 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="the.atulyadav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<a href="https://instagram.com/the.atulyadav/">
-  <img align="left" alt="Atul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 
 
@@ -36,7 +31,10 @@
 
 
 **Languages and Tools:**  
-
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -50,6 +48,11 @@
 <a href="https://github.com/AtulYadav01">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtulYadav01&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
+
+[website]: https://atulyadav01.github.io/atul-yadav-portfolio/
+[twitter]: https://twitter.com/the_atulyadav
+[instagram]: https://instagram.com/the.atulyadav
+[linkedin]: https://linkedin.com/in/atul-yadav01
 
 <div align="center">
 
