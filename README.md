@@ -39,9 +39,7 @@
 
 
 
-<a href="https://github.com/AtulYadav01">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtulYadav01&show_icons=true&theme=dark&line_height=27" alt="Atul's github stats"/>
-</a>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AtulYadav01&show_icons=true&hide_border=true&count_private=true" /> <br><br>
 
 [website]: https://atulyadav01.github.io/atul-yadav-portfolio/
 [twitter]: https://twitter.com/the_atulyadav
