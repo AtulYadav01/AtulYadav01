@@ -25,13 +25,13 @@
 - 🌱 I’m currently learning Kotlin.
 - 🤔 I’m looking for help with Android Developement.
 - 💬 Ask me about Python or any tech related stuff.
-- 📫 How to reach me: [Instagram - the.atulyadav](https://instagram.com/the.atulyadav/) , [Linkedin - atul-yadav01](https://linkedin.com/in/atul-yadav01/)
+- 📫 How to reach me: [Instagram](https://instagram.com/the.atulyadav/) , [Linkedin](https://linkedin.com/in/atul-yadav01/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
-[![Linkedin:](https://img.shields.io/badge/-atulyadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/atul-yadav01/)](https://linkedin.com/in/atul-yadav01/)
-[![GitHub:](https://img.shields.io/github/followers/AtulYadav01?label=follow&style=social)](https://github.com/AtulYadav01)
+[![Linkedin:atul-yadav01](https://img.shields.io/badge/-atulyadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/atul-yadav01/)](https://linkedin.com/in/atul-yadav01/)
+[![GitHub:AtulYadav01](https://img.shields.io/github/followers/AtulYadav01?label=follow&style=social)](https://github.com/AtulYadav01)
 
 
 
