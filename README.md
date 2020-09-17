@@ -61,9 +61,10 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-[website]: https://atulyadav01.github.io/atul-yadav-portfolio/<br><br>
+[<img align="left" alt="https://atulyadav01.github.io/atul-yadav-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<p align="center">
+<p align="left">
+&nbsp; <a href="https://atulyadav01.github.io/atul-yadav-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="50" /></a>  
 &nbsp; <a href="https://twitter.com/the_atulyadav" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/the.atulyadav/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/atul-yadav01/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
