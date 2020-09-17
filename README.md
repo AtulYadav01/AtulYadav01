@@ -1,32 +1,35 @@
-## Hola, I'm [Atul Yadav!] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AtulYadav01&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
-
+        
+<h2> Hey there! I'm Atul Yadav. <img src="https://github.com/Atulyadav01/AtulYadav01/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AtulYadav01/AtulYadav01/master/gif3.gif" width="500"/>
 [<img align="left" alt="https://atulyadav01.github.io/atul-yadav-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="the_atulyadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="atul-yadav01 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="the.atulyadav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<h3> 👨🏻‍💻 About Me </h3>
 
+- 🔭 &nbsp; I’m currently learning Native Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and python developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and web development .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
+<h3>🛠 Tech Stack</h3>
 
-<br/>
-<br/>
+- 💻   &nbsp; Python | Dart | Java | C++  
+- 🌐   &nbsp; Android | flutter | HTML | CSS | JavaScript
+- 🛢   &nbsp; MySQL | Firebase
+- 🔧  &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Netbeans
+- 🖥   &nbsp; Adobe Photoshop | Filmora
 
+<br>
 
+<!-- ![Atul's Github Stats](https://github-readme-stats.vercel.app/api?username=AtulYadav01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AtulYadav01&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
+</br>
 
-- 🌱 I’m currently learning Kotlin.
-- 🤔 I’m looking for help with Android Developement.
-- 💬 Ask me about Python or any tech related stuff.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-
-
-[![Linkedin:atul-yadav01](https://img.shields.io/badge/-atulyadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/atul-yadav01/)](https://linkedin.com/in/atul-yadav01/)
-[![GitHub:AtulYadav01](https://img.shields.io/github/followers/AtulYadav01?label=follow&style=social)](https://github.com/AtulYadav01)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulYadav01&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 **Languages and Tools:** 
 
@@ -56,22 +59,18 @@
 <br />
 <br />
 
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AtulYadav01&show_icons=true&hide_border=true&count_private=true" /> 
+<h3> 🤝🏻 Connect with Me </h3>
 
 [website]: https://atulyadav01.github.io/atul-yadav-portfolio/<br><br>
 
-
-
-
-[twitter]: https://twitter.com/the_atulyadav
-[instagram]: https://instagram.com/the.atulyadav
-[linkedin]: https://linkedin.com/in/atul-yadav01
-
-<div align="center">
+<p align="center">
+&nbsp; <a href="https://twitter.com/the_atulyadav" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/the.atulyadav/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/atul-yadav01/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:atulyad66@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
+
 
