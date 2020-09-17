@@ -62,21 +62,23 @@
 <br />
 <br />
 
-[![Linkedin:atul-yadav01](https://img.shields.io/badge/-atulyadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/atul-yadav01/)](https://linkedin.com/in/atul-yadav01/)
-[![GitHub:AtulYadav01](https://img.shields.io/github/followers/AtulYadav01?label=follow&style=social)](https://github.com/AtulYadav01)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://atulyadav01.github.io/atul-yadav-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="50" /></a> 
         
-&nbsp; <a href="https://twitter.com/the_atulyadav" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the.atulyadav/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/atul-yadav01/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="50" /></a>
-&nbsp; <a href="https://instagram.com/the.atulyadav" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="50" /></a>
-&nbsp; <a href="mailto:atulyad66@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+[<img align="left" alt="https://atulyadav01.github.io/atul-yadav-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="the_atulyadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="atul-yadav01 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="the.atulyadav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+[website]: https://atulyadav01.github.io/atul-yadav-portfolio/<br><br>
+[twitter]: https://twitter.com/the_atulyadav
+[instagram]: https://instagram.com/the.atulyadav
+[linkedin]: https://linkedin.com/in/atul-yadav01
+
+<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
