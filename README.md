@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Atul Yadav. <img src="https://github.com/Atulyadav01/AtulYadav01/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AtulYadav01/AtulYadav01/master/gif3.gif" width="350"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AtulYadav01/AtulYadav01/master/gif2.gif.gif" width="350"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AtulYadav01/AtulYadav01/master/1.gif" width="350"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtulYadav01&label=Views&color=blue&style=plastic" alt="AtulYadav01" /> </p>
