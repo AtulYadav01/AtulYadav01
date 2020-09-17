@@ -2,7 +2,7 @@
         
 <h2> Hey there! I'm Atul Yadav. <img src="https://github.com/Atulyadav01/AtulYadav01/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AtulYadav01/AtulYadav01/master/gif3.gif" width="500"/>
-[<img align="left" alt="https://atulyadav01.github.io/atul-yadav-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
