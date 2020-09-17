@@ -70,7 +70,7 @@
 [<img align="left" alt="the.atulyadav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://atulyadav01.github.io/atul-yadav-portfolio/<br><br>
+[website]: https://atulyadav01.github.io/atul-yadav-portfolio/
 [twitter]: https://twitter.com/the_atulyadav
 [instagram]: https://instagram.com/the.atulyadav
 [linkedin]: https://linkedin.com/in/atul-yadav01
