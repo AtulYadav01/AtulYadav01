@@ -75,7 +75,7 @@
 [instagram]: https://instagram.com/the.atulyadav
 [linkedin]: https://linkedin.com/in/atul-yadav01
 
-<div align="bottom">
+<div align="right">
 
 
 ### Show some ❤️ by starring some of the repositories!
