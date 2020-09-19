@@ -18,10 +18,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻   &nbsp; Python | Dart | Java | C++  
-- 🌐   &nbsp; Android | flutter | HTML | CSS | JavaScript
+- 💻   &nbsp; Kotin | Java | Python | C++  | Dart
+- 🌐   &nbsp; Android | flutter | HTML | CSS 
 - 🛢   &nbsp; MySQL | Firebase
-- 🔧  &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Netbeans
+- 🔧  &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Docker
 - 🖥   &nbsp; Adobe Photoshop | Filmora
 
 <br>
