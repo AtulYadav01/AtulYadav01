@@ -10,9 +10,7 @@
 
 - 🔭 &nbsp; I’m currently learning Native Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and python developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and web development .
+- 💼 &nbsp; Android and Python developer .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
