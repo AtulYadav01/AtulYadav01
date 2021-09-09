@@ -27,9 +27,6 @@
 
 ![Atul's Github Stats](https://github-readme-stats.vercel.app/api?username=AtulYadav01&show_icons=true&hide_border=true&count_private=true&theme=radical
 
-<br>
-<br>
-
 
 <!-- Stats-->
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulYadav01&&theme=monokai-metallian&hide_border=true" alt="AtulYadav01" /></p>
