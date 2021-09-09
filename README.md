@@ -22,12 +22,7 @@
 - 🔧  &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Docker
 - 🖥   &nbsp; Adobe Photoshop | Filmora
 
-<br>
 
-
-![Atul's Github Stats](https://github-readme-stats.vercel.app/api?username=AtulYadav01&show_icons=true&hide_border=true&count_private=true&theme=radical
-
-</br>
 
 
 <!-- Stats-->
