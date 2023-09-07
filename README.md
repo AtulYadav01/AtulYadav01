@@ -8,18 +8,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Native Application Development
+- 🔭 &nbsp; I’m currently learning Hybrid Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Android and Python developer .
+- 💼 &nbsp; Android and Unity developer .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻   &nbsp; Kotin | Java | Python | C++  | Dart
-- 🌐   &nbsp; Android | flutter | HTML | CSS 
+- 💻   &nbsp; Kotin | Java | Unity | C++  | Dart | C# | Python
+- 🌐   &nbsp; Android | flutter | Unity | C# 
 - 🛢   &nbsp; MySQL | Firebase
-- 🔧  &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Docker
+- 🔧  &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Docker } Visual Studio
 - 🖥   &nbsp; Adobe Photoshop | Filmora
 
 
