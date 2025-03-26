@@ -1,14 +1,12 @@
 <h2> Hey there! I'm Atul Yadav. <img src="https://github.com/Atulyadav01/AtulYadav01/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AtulYadav01/AtulYadav01/master/gif3.gif" width="350"/>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtulYadav01&label=Views&color=blue&style=plastic" alt="AtulYadav01" /> </p>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Hybrid Application Development
+- 🔭 &nbsp; I’m currently learning Jetpack Compose
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Android and Unity developer .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
@@ -16,24 +14,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻   &nbsp; Kotin | Java | Unity | C++  | Dart | C# | Python
-- 🌐   &nbsp; Android | flutter | Unity | C# 
+- 💻   &nbsp; Kotin | Java | Unity | C++  | Dart | C# | Python | Flutter
 - 🛢   &nbsp; MySQL | Firebase
-- 🔧  &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Docker } Visual Studio
-- 🖥   &nbsp; Adobe Photoshop | Filmora
-
+- 🔧  &nbsp; Android Studio | PyCharm | Visual Studio code | Cursor| Git | Visual Studio
 
 <br>
-
-
-
 </br>
-
-
-<!-- Stats-->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulYadav01&&theme=monokai-metallian&hide_border=true" alt="AtulYadav01" /></p>
-
-
 
 </br>
 
