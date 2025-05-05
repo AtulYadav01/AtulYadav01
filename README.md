@@ -19,8 +19,8 @@
 
 ### 🛠 Tech Stack
 
-- 💻 Kotlin | Java | C++ | Dart | C# | Python | Flutter  
-- 🛢 MySQL | Firebase  
+- 💻 Kotlin | Java | C++ | Dart | C# | Python | Flutter
+- 🛢 MySQL | Firebase
 - 🔧 Android Studio | VS Code | PyCharm | Visual Studio | Cursor | Git
 
 ---
@@ -37,18 +37,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="26" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" width="26" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" width="26" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtulYadav01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtulYadav01&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulYadav01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
